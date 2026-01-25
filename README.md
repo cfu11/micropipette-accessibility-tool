@@ -8,9 +8,9 @@ Standard micropipettes require repetitve motion and prolonged grip strength, lim
 ## Approach
 - Conducted stakeholder interviews with a user with limited wrist mobility
 - Translated qualitative needs into design constraints
-- Iterated through CAD prototypes
+- Iterated through Solidworks and Onshape CAD prototypes, tailoring width and curvature
 - Validated designs through user feedback
 
 ## Tools
-SolidWorks · Onshape · 3D Printing · User Research
+SolidWorks · Onshape · 3D Printing · User Research · Notion
 
