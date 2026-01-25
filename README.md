@@ -1,6 +1,6 @@
 # micropipette-accessibility-tool
 A universally compatible 3D-printed add-on designed to reduce grip force and improve accessibility for wet-lab users.
-\href{https://2025.igem.wiki/ubc-vancouver/inclusivity/}{\textit{(project website)}}
+[project website](https://2025.igem.wiki/ubc-vancouver/inclusivity/)
 
 ## Problem
 Standard micropipettes require repetitve motion and prolonged grip strength, limiting accessibility for users with motor impairments and musculoskeletal disorders.
