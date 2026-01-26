@@ -17,11 +17,11 @@ SolidWorks · Onshape · 3D Printing · User Research · Notion
 ## Outcome
 ![Final Product Printed](printed-cad)
 
-## Technical Drawing
+## Technical Drawing / CAD Model
 ![Sample Technical Drawing](technical-drawing)
 
-## CAD
-![Sample CAD Model](sample-prototype)
+## Sample CAD Model
+![CAD Model](sample-prototype)
 
-## WDM
+## Weighted Decision Matrix
 ![Sample User Needs Weighted Decision Matrix](weighted-decision-matrix)
