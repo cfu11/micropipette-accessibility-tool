@@ -15,7 +15,7 @@ Standard micropipettes require repetitve motion and prolonged grip strength, lim
 SolidWorks · Onshape · 3D Printing · User Research · Notion
 
 ## Outcome
-![Final Product Printed](printed-cad)
+![Final Product Printed](cad-print)
 
 ## Technical Drawing / CAD Model
 ![Sample Technical Drawing](technical-drawing)
