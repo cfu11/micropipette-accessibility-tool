@@ -15,13 +15,13 @@ Standard micropipettes require repetitve motion and prolonged grip strength, lim
 SolidWorks · Onshape · 3D Printing · User Research · Notion
 
 ## Outcome
-![Final Product Printed](cad-print)
+![Final Product Printed](figures/cad-print.png)
 
 ## Technical Drawing / CAD Model
-![Sample Technical Drawing](technical-drawing)
+![Sample Technical Drawing](figures/technical-drawing.png)
 
 ## Sample CAD Model
-![CAD Model](sample-prototype)
+![CAD Model](figures/sample-prototype.png)
 
 ## Weighted Decision Matrix
-![Sample User Needs Weighted Decision Matrix](weighted-decision-matrix)
+![Sample User Needs Weighted Decision Matrix](figures/weighted-decision-matrix.png)
