@@ -18,10 +18,7 @@ SolidWorks · Onshape · 3D Printing · User Research · Notion
 ![Final Product Printed](figures/cad-print.png)
 
 ## Technical Drawing / CAD Model
-![Sample Technical Drawing](figures/technical-drawing.png)
-
-## Sample CAD Model
-![CAD Model](figures/sample-prototype.png)
+![Sample Technical Drawing](figures/technical-drawing-cad.png)
 
 ## Weighted Decision Matrix
-![Sample User Needs Weighted Decision Matrix](figures/weighted-decision-matrix.png)
+![Sample User Needs Weighted Decision Matrix](figures/wdm.png)
