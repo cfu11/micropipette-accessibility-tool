@@ -18,7 +18,7 @@ SolidWorks · Onshape · 3D Printing · User Research · Notion
 ![Final Product Printed](printed-cad)
 
 ## Technical Drawing
-![Sample CAD Model](technical-drawing)
+![Sample Technical Drawing](technical-drawing)
 
 ## CAD
 ![Sample CAD Model](sample-prototype)
