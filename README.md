@@ -12,7 +12,7 @@ Standard micropipettes require repetitve motion and prolonged grip strength, lim
 - Validated designs through user feedback
 
 ## Tools
-SolidWorks · Onshape · 3D Printing · User Research · Notion
+SolidWorks · Onshape · 3D Printing · User Research · Notion · Figma
 
 ## Outcome
 ![Final Product Printed](figures/cad-print.png)
